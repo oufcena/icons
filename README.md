@@ -1,3 +1,3 @@
 # icons
 
-[Preview](https://oufcena.github.io/icons/)
+[Preview](https://oufcena.github.io/icons/icons.html)
